@@ -28,3 +28,10 @@
 .purplehead {
   background: #ddcef2;
 }
+.center {
+  text-align: center;
+}
+
+.panel-title {
+  color: black;
+}
