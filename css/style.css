@@ -1,7 +1,13 @@
 .feature {
   float: left;
+  max-width: 350px;
 }
-
+.right {
+  text-align: right;
+}
+.featuretxt {
+  padding-top: 50px
+}
 .bluetext {
   color: blue;
 }
