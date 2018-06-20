@@ -1,32 +1,31 @@
-# Wikipedia Rebuild
+# wikipedia-rebuild
 
+## GitHub repository: https://github.com/r-craig73/wikipedia-rebuild
+
+#### By Ron Craig (ron.craig@comcast.net) & Joel Adams (joeladamsdesign@gmail.com)
+
+## Descripton
+#### An Epicodus Intro to Programming lesson.
 #### Rebuild of wikipedia homepage, V1.01 01/04/2018
 
-#### By Ron Craig & Joel Adams
+![alt text](./img/wiki-rebuild-homepage.png "Homepage screenshot")
 
-## Rebuild of wikipedia homepage with panels containing
-### On this day
-### Featured picture
-### Featured Article
-### Did you know
+## Rebuilding a wikipedia homepage with panels containing...
+* On this day
+* Featured picture
+* Featured Article
+* Did you know
 
-## Setup/Installation Requirements
-### bootstrap.css file
+## Setup
+* Clone the repository
+* Open `index.html` in any web browser.
 
 ## Known Bugs
-
-### none at the moment
-
-## Support and contact details
-
-#### contact ron.craig@comcast.net & joeladamsdesign@gmail.com
+* None.  Maybe updating the bootstrap file late 2018.
 
 ## Technologies Used
+* HTML, CSS & bootstrap
 
-### HTML, CSS & bootstrap
+### MIT License
 
-### License
-
-#### GNP
-
-Copyright (c) 2018 **Ron & Joel**
+Copyright (c) 2018 _Ron & Joel_
